@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import random
 
-noun_list = ['cherry', 'abomination', 'wolf', 'field', 'racecar', 'propagator', 'moron', 'quark', 'language', 'herb', 'weapon', 'sargeant', 'bear',' advice', 'instrument', 'bone', 'felon',
+noun_list = ['cherry', 'abomination', 'wolf', 'field', 'racecar', 'propagator', 'moron', 'quark', 'language', 'herb', 'weapon', 'sargeant', 'bear', 'advice', 'instrument', 'bone', 'felon',
              'sapphire', 'ditch', 'peeper', 'clam', 'transplant']
 
 adjective_list = ['green', 'monstrous', 'excessive', 'delightful', 'round', 'complete', 'sharp', 'dubious', 'insipid', 'suspicious', 'lanky', 'alleged', 'emaciated', 'ugly', 'diluvian']
