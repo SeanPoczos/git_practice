@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 import random
 
-noun_list = ['cherry', 'abomination', 'wolf', 'field', 'racecar', 'propagator', 'moron', 'quark', 'language']
+noun_list = ['cherry', 'abomination', 'wolf', 'field', 'racecar', 'propagator', 'moron', 'quark', 'language', 'herb', 'weapon', 'sargeant', 'bear',' advice', 'instrument', 'bone', 'felon',
+             'sapphire', 'ditch', 'peeper', 'clam', 'transplant']
 
-adjective_list = ['green', 'monstrous', 'excessive', 'delightful', 'round', 'complete', 'sharp', 'dubious']
+adjective_list = ['green', 'monstrous', 'excessive', 'delightful', 'round', 'complete', 'sharp', 'dubious', 'insipid', 'suspicious', 'lanky', 'alleged', 'emaciated', 'ugly', 'diluvian']
 
-verb_list = ['slapped', 'ran', 'wrote', 'slid', 'killed', 'painted', 'restricted', 'subdued', 'smelled', 'scratched']
+verb_list = ['slapped', 'ran', 'wrote', 'slid', 'killed', 'painted', 'restricted', 'subdued', 'smelled', 'scratched', 'shed', 'minced', 'dropped', 'exceeded', 'trapped', 'sought', 'scammed']
 
 noun_number_1 = random.randint(0, len(noun_list) - 1)
 noun_number_2 = random.randint(0, len(noun_list) - 1)
